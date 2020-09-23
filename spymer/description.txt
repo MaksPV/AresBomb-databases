@@ -1,0 +1,5 @@
+База от Spymer от FSystem88
+https://github.com/FSystem88/spymer/
+
+Содержит 149 сервисов СМС
+Не содержит базы звонков
